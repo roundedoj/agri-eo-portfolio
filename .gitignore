@@ -1,0 +1,4 @@
+data/
+*.tif
+.env
+.ipynb_checkpoints/
